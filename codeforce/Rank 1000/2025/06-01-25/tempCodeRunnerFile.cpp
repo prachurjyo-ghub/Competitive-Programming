@@ -1,0 +1,3 @@
+string forFullstop(string in){
+
+// }
