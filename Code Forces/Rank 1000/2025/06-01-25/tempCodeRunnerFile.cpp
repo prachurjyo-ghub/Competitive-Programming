@@ -1,3 +1,0 @@
-string forFullstop(string in){
-
-// }
