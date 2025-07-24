@@ -19,11 +19,11 @@ int main()
     }
     int sj = 0, dm = 0;
     int l = 0, r = n - 1;
-     bool turn = true;
+    bool turn = true;
     while (l <= r)
     {
         int picked;
-       
+
         if (ar[l] > ar[r])
         {
             picked = ar[l];
